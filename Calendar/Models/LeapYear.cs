@@ -4,9 +4,9 @@ namespace Calendar
 {
   public class LeapYear
   {
-    public bool IsLeapYear(int Year)
+    public bool IsLeapYear(int year)
     {
-      return false;
+      return year%4 == 0;
     }
   }
 }
