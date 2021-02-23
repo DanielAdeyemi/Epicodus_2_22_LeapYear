@@ -12,7 +12,7 @@ ___
 ## *Setup/Installation instructions:*
 #### From the web:
 * Go to my GitHub repository, using following [URL](https://github.com/DanielAdeyemi/Epicodus_2_22_LeapYear.git).
-* Click the "Code" ![img](src/assets/code.png) and click the 'Download zip' option ![img](src/assets/zip.png).
+* Click the "Code" ![img](img/code.png) and click the 'Download zip' option ![img](img/zip.png).
 * Unzip the file, navigate to the `Models` directory to check code or to the `ModelTests` directory to see tests.
 #### From the terminal: 
 * Clone my repository from GitHub using `git clone https://github.com/DanielAdeyemi/Epicodus_2_22_LeapYear.git` in your terminal or GitBash
